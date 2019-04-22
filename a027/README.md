@@ -40,4 +40,4 @@ Mathematics 數學
 
 ---
 ## Reference
-[DHPE a038]("http://134.208.12.72/ShowProblem?problemid=a038")
+[DHPE a038](http://134.208.12.72/ShowProblem?problemid=a038)
