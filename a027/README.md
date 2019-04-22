@@ -37,3 +37,7 @@ Each set of test data output one, the contents of a and b between (including) th
 
 ## Tag
 Mathematics 數學
+
+---
+## Reference
+[DHPE a038]("http://134.208.12.72/ShowProblem?problemid=a038")
