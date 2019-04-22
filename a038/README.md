@@ -3,7 +3,7 @@
 ## Question
 Write a program to take the arithmetic means of each pair of values in two N × M dimensional arrays. These calculated means will be outputted into a newly generated N × M dimensional array.
 
-撰寫一個程式，計算兩個N×M維陣列中的每對數值的算術平均，計算出的平均數將輸出到另一個新的N×M維陣列中。
+撰寫一個程式，計算兩個 N×M 維陣列中的每對數值的算術平均，計算出的平均數將輸出到另一個新的 N×M 維陣列中。
 
 ---
 
@@ -28,9 +28,9 @@ B[0, 2]
 
 第一行包含兩個整數，N M（1≤N，M≤3）。 它表示輸入數據是NxM陣列。
 
-接著的NxM數字是陣列A.
+接著的 NxM 數字是陣列 A.
 
-接著的NxM數字是陣列B.
+接著的 NxM 數字是陣列 B.
 
 例如：
 
@@ -57,13 +57,13 @@ There is a blank line after each test case.
 
 一個新的NxM陣列，其元素是陣列A和陣列B的算術平均數。
 
-每行輸出代表陣列的一列，元素的輸出格式為[content]。
+每行輸出代表陣列的一列，元素的輸出格式為 [content]。
 
-[content]和[content]之間沒有空格。
+[content] 和 [content] 之間沒有空格。
 
 每個測試用例後都有一個空行。
 
-※舍入到小數點後一位
+※ 捨去到小數點後一位
 
 ---
 
