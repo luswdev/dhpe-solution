@@ -42,3 +42,7 @@ The output is to be a two-column list. The first column is a list of the distinc
 
 ## Tag
 Array 陣列
+
+---
+## Reference
+[DHPE a032](http://134.208.12.72/ShowProblem?problemid=a032)

@@ -42,3 +42,7 @@ The output contains one line for the result, 0, 1, or 2.
 
 ## Tag
 Array 陣列
+
+---
+## Reference
+[DHPE a034](http://134.208.12.72/ShowProblem?problemid=a034)

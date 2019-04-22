@@ -41,3 +41,7 @@ The output contains the missing number (student).
 
 ## Tag
 Array 陣列
+
+---
+## Reference
+[DHPE a035](http://134.208.12.72/ShowProblem?problemid=a035)

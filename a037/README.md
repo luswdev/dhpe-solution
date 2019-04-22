@@ -52,3 +52,7 @@ Smallest number = -78
 
 ## Tag
 Array 陣列
+
+---
+## Reference
+[DHPE a037](http://134.208.12.72/ShowProblem?problemid=a037)

@@ -43,3 +43,7 @@ correct correct correct
 
 ## Tag
 Array 陣列
+
+---
+## Reference
+[DHPE a033](http://134.208.12.72/ShowProblem?problemid=a033)

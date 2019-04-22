@@ -92,3 +92,7 @@ There is a blank line after each test case.
 
 ## Tag
 Array 陣列
+
+---
+## Reference
+[DHPE a038](http://134.208.12.72/ShowProblem?problemid=a038)
