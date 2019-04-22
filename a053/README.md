@@ -58,3 +58,7 @@ Y N Y Y N Y
 
 ## Tag
 迴圈
+
+---
+## Reference
+[DHPE a053](http://134.208.12.72/ShowProblem?problemid=a053)
