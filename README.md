@@ -1,30 +1,7 @@
-# a
+# DHPE
+DHPE = National Dong Hwa University Programming Examination
 
-## Question
+A online judge for NDHU students, and there are the answers.
 
-
----
-
-## Input
-
-
-## Output
-
-
----
-
-## Sample Input
-```
-
-```
-
-## Sample Out
-```
-
-```
-
----
-
-## Hint
-
-## Tag
+## Contribute
+If you can solve it in different language, you can contribute it with me.
