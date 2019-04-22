@@ -38,22 +38,8 @@ correct correct correct
 ## Hint
 | Sample Input: | Sample Output: |
 | ------------- | -------------- |
-|2 
-correct wrong give-up 
-correct correct correc t
-|
-(1,20)
-(3,10) 
-(2,0)|
-|4 
-correct wrong give-up 
-correct correct correct 
-wrong correct correct 
-correct correct correct
-|
-(3,30) 
-(1,20)
-(2,20)|
+| 2 <br> correct wrong give-up <br> correct correct correct | (1,20) <br> (3,10) <br> (2,0) |
+| 4 <br> correct wrong give-up <br> correct correct correct <br> wrong correct correct <br> correct correct correct | (3,30) <br> (1,20) <br> (2,20) |
 
 ## Tag
 Array 陣列
