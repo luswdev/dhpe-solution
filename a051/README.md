@@ -1,9 +1,9 @@
 # a051: Number Puzzle 數字猜謎
 
 ## Question
-The number puzzle is a popular game for enhancing the children’s arithmetic skills. Here we will introduce a number addition puzzle. In the puzzle, we use an alphabet (A~G) to represent a number digit (0~ 9), the digits of different alphabets are distinct each other. A puzzle contains an equation E1 + E2 = E3 with three numbers E1, E2, and E3, where E1 and E2 are 2-digit numbers and E3 is a 3-digit number. The goal of the puzzle is to recover the digits of the numbers. For example, one answer of the following puzzle “AB + BC = EED” is “A = 8”, “B = 3”, “C = 2”, “D = 5”, and “E = 1”.
+The number puzzle is a popular game for enhancing the children’s arithmetic skills. Here we will introduce a number addition puzzle. In the puzzle, we use an alphabet (A\~G) to represent a number digit (0\~ 9), the digits of different alphabets are distinct each other. A puzzle contains an equation E1 + E2 = E3 with three numbers E1, E2, and E3, where E1 and E2 are 2-digit numbers and E3 is a 3-digit number. The goal of the puzzle is to recover the digits of the numbers. For example, one answer of the following puzzle “AB + BC = EED” is “A = 8”, “B = 3”, “C = 2”, “D = 5”, and “E = 1”.
 
-數字猜謎是一個加強小孩算術技能的遊戲。這裡將介紹加法的猜謎。在一個猜謎中，我們以英文字母(A~G)分別代表(0~9)某個數字。一個猜謎包含一個等式：E1 + E2 = E3　其中E1 與E2 為兩位數的數字，E3　三位數的數字。此猜謎的目的為把利用A~G所表達的數字還原成由0~9所表示的數字。例如：“AB + BC = EED”， “A = 8”, “B = 3”， “C = 2”，“D = 5”, 及 “E = 1”.　    
+數字猜謎是一個加強小孩算術技能的遊戲。這裡將介紹加法的猜謎。在一個猜謎中，我們以英文字母(A\~G)分別代表(0\~9)某個數字。一個猜謎包含一個等式：E1 + E2 = E3　其中E1 與E2 為兩位數的數字，E3　三位數的數字。此猜謎的目的為把利用A~G所表達的數字還原成由0~9所表示的數字。例如：“AB + BC = EED”， “A = 8”, “B = 3”， “C = 2”，“D = 5”, 及 “E = 1”.　    
 
 ```
  	A	B
