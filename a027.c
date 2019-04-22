@@ -8,7 +8,7 @@ int main()
     while(scanf("%d %d", &a, &b)!=EOF) {
         sum = 0;
         for( i=a; i<=b; i++)
-            if(i%2==1)
+            if(i&0x1)
                 sum+=i;
 
         printf("%d\n",sum);
