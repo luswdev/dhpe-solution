@@ -37,7 +37,7 @@ correct correct correct
 
 ## Hint
 | Sample Input: | Sample Output: |
-| :------------ | -------------- |
+| :------------ | :------------- |
 | 2 <br> correct wrong give-up <br> correct correct correct | (1,20) <br> (3,10) <br> (2,0) |
 | 4 <br> correct wrong give-up <br> correct correct correct <br> wrong correct correct <br> correct correct correct | (3,30) <br> (1,20)(2,20) |
 
