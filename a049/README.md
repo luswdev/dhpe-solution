@@ -8,6 +8,7 @@ For example:
 The number of a signal before filtering: 3 2 10 4 (the numbers with the bottom line are regarded as the centers of the moving window, and they will be processed in order)
 
 - Step 1: The moving window is centered at 2, so the list within the window 3 2 10.
+
 Sorted window sequence: 2 3 10
 
 The middle number is: 3
@@ -15,6 +16,7 @@ The middle number is: 3
 Current filtered sequence: 3 3 10 4 (in the middle, replace the original value)
 
 - Step 2: The moving window is centered at 10, so the sequence of the window is 2 10 4.
+
 Sorted window sequence: 2 4 10
 
 The middle number is: 4
@@ -35,13 +37,17 @@ Current filtered sequence: 3 3 4 4 (in the middle, replace the original value)
 （加底線數值，表示將視為視窗中心，依序做處理）
 
 - 步驟一：以2 為中心，其視窗涵蓋的數字是3 2 10 
+
 排序後之視窗序列： 2 3 10 
 中間數為　　： 3 
 目前濾波後之數列： 3 3 10 4　　（以中間數，取代原本的數值）
+
 - 步驟二：以10 為中心，其視窗涵蓋的數字是2 10 4
+
 排序後之視窗序列： 2 4 10
 中間數為　　： 4 
 目前濾波後之數列： 3 3 4 4 　　（以中間數，取代原本的數值）
+
 - 最後結果：3 3 4 4
 
 ---
