@@ -19,13 +19,13 @@ Each set of test data output one, the contents of a and b between (including) th
 
 ---
 
-## Input Example
+## Sample Input
 ```
 1 5
 2 4
 ```
 
-## Out Example
+## Sample Out
 ```
 9
 3
