@@ -13,12 +13,12 @@
 
 ---
 
-## Input Example
+## Sample Input
 ```
 
 ```
 
-## Out Example
+## Sample Out
 ```
 
 ```
