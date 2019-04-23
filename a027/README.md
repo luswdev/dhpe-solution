@@ -3,7 +3,7 @@
 ## Question
 Random odd numbers in a given range or set. A range a to b, please find between a, b and all the odd. For example, the range [1,6] of all odds is 1 + 3 + 5 = 9.
 
-預設範圍或集合中的隨機奇數。 範圍 a 到 b，請在 a、b 之間找到所有奇數之和。 例如，區間的範圍為[1,6]則此后區間的奇數和是 1 + 3 + 5 = 9。
+預設範圍或集合中的隨機奇數。範圍 a 到 b，請在 a、b 之間找到所有奇數之和。例如，區間的範圍為[1,6]則此后區間的奇數和是 1 + 3 + 5 = 9。
 
 ---
 

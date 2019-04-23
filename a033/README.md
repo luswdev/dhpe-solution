@@ -3,7 +3,7 @@
 ## Question
 Here holds a trivia quiz. There are three teams sequentially numbered by 1, 2, and 3 in the game. Each team will answer certain questions in order. If answered correctly, the team scores 10 points; otherwise, the team deducts 10 points. If giving up answering the question, the team scores zero. Given certain rounds of questions, please calculate the final ranking of the three teams and the total score of each team.
 
-這裡有一個冷知識測驗， 在遊戲中有三個隊伍按順序編號為 1、2 和 3。 每個團隊將按順序回答某些問題。如果回答正確，團隊得分為 10 分； 否則，團隊扣除 10 分。 如果放棄回答問題，團隊得分為零。經過幾個回合的問題後，請計算三隊的最終排名和每隊的總得分。
+這裡有一個冷知識測驗， 在遊戲中有三個隊伍按順序編號為 1、2 和 3。每個團隊將按順序回答某些問題。如果回答正確，團隊得分為 10 分； 否則，團隊扣除 10 分。如果放棄回答問題，團隊得分為零。經過幾個回合的問題後，請計算三隊的最終排名和每隊的總得分。
 
 ---
 
