@@ -8,7 +8,7 @@ Write a program to track all the hyper links in an HTML document. For example, i
 <a href="course.htm">Course</a>
 ```
 The syntax for HTML hyperlinks is as follows.
-```html=
+```html
 <A HREF="resumepage.html">my resume</A>
 ```
 Your program will read from stdin the HTML file, then find all the hyper links. Note that you only need to process characters in the `<A ... > ... </A>` tag, and nothing else. Note that the hyper link tag can be in either lower or upper cases, and you can safely assume that whatever HREF or href found in the `<A ...></A>` tag is a valid hyper link.
