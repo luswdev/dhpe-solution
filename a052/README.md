@@ -5,7 +5,7 @@ There are many kinds of game for playing cards. Now you will participate in the 
 
  
 
-撲克牌的遊戲有很多種，像是大老二、撿紅點等。然而，現在您要參與的是比大小遊戲，每張牌各有其花色和數字，大小比較主要以花色為主，黑桃>紅心>方塊>梅花；倘若花色相同時，則比較數字。
+撲克牌的遊戲有很多種，像是大老二、撿紅點等。然而，現在您要參與的是比大小遊戲，每張牌各有其花色和數字，大小比較主要以花色為主，黑桃 > 紅心 > 方塊 > 梅花；倘若花色相同時，則比較數字。
 
 ---
 
@@ -14,7 +14,7 @@ The first line of the input contains an integer n (1 ≤ n ≤ 50) indicating th
 
  
 
-第一列的整數n （ 1 ≤ n ≤ 50），代表撲克牌的n疊，其後有n列，每列即為一疊牌的內容，每張牌分別以英文、數字作表示，其中S代表黑桃、H代表紅心、D代表方塊、 C代表梅花。每筆資料分別以空白隔開。
+第一列的整數 n（1 ≤ n ≤ 50），代表撲克牌的n疊，其後有n列，每列即為一疊牌的內容，每張牌分別以英文、數字作表示，其中 S 代表黑桃、H 代表紅心、D 代表方塊、C 代表梅花。每筆資料分別以空白隔開。
 
 ## Output
 Output the sorted cards and add a “new line character” in the end of output.

@@ -32,25 +32,25 @@ Current filtered sequence: 3 3 4 4 (in the middle, replace the original value)
 
 例：
 
-濾波前之訊號數列： 3 2 10 4 　
+濾波前之訊號數列：3 2 10 4 　
 
 （加底線數值，表示將視為視窗中心，依序做處理）
 
-- 步驟一：以2 為中心，其視窗涵蓋的數字是3 2 10 
+- 步驟一：以 2 為中心，其視窗涵蓋的數字是 3 2 10 
 
-排序後之視窗序列： 2 3 10 
+排序後之視窗序列：2 3 10 
 
-中間數為　　： 3 
+中間數為： 3 
 
-目前濾波後之數列： 3 3 10 4　　（以中間數，取代原本的數值）
+目前濾波後之數列：3 3 10 4（以中間數，取代原本的數值）
 
 - 步驟二：以10 為中心，其視窗涵蓋的數字是2 10 4
 
-排序後之視窗序列： 2 4 10
+排序後之視窗序列：2 4 10
 
-中間數為　　： 4 
+中間數為：4 
 
-目前濾波後之數列： 3 3 4 4 　　（以中間數，取代原本的數值）
+目前濾波後之數列：3 3 4 4（以中間數，取代原本的數值）
 
 - 最後結果：3 3 4 4
 
@@ -59,14 +59,14 @@ Current filtered sequence: 3 3 4 4 (in the middle, replace the original value)
 ## Input
 First enter a positive integer n (n ≤ 50), indicating that there are n test cases. The first number of each case m represents the number of data (3 ≤ m ≤ 100), and the following m positive integers represent the data to be processed.
 
-首先輸入一個正整數 n (n50) ，表示接下來有 n 筆測資。每筆測資第 1 個數字(m)代表有 m 個資料 (3 ≤ m ≤ 100 )，接著的 m 個正整數代表要處理的資料。
+首先輸入一個正整數 n（n ≤ 50），表示接下來有 n 筆測資。每筆測資第 1 個數字（m）代表有 m 個資料（3 ≤ m ≤ 100），接著的 m 個正整數代表要處理的資料。
 
 ## Output
 Output n filtered data, where two numbers are separated by one space and there is no need to add a space after the last number. A newline character should be added at the end of the output.
 
  
 
-輸出 n 個濾波後的資料，兩個數字間以 1 個空白做間隔 (最後數字無空白結尾) ，最後必須有換行字元。
+輸出 n 個濾波後的資料，兩個數字間以 1 個空白做間隔（最後數字無空白結尾），最後必須有換行字元。
 
 ---
 

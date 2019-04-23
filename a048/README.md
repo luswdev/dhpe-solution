@@ -19,8 +19,9 @@ Input at most nine lines of test datasets, and each line (or dataset) contains s
 **測資規範 :**
 - Each dataset includes n integer numbers, 1 ≤ n ≤ 12
 - Each integer number m in a dataset has the limit, 0 ≤ m ≤ 40
-- 每筆測資包含n個整數，1 ≤ n ≤ 12
-- 任一個整數m，0 ≤ m ≤ 40
+
+- 每筆測資包含 n 個整數，1 ≤ n ≤ 12
+- 任一個整數 m，0 ≤ m ≤ 40
 
 ## Output
 For each input line (or dataset), print the product value of those numbers involved. Please print a cartridge return at the end of each output line.

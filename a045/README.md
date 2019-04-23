@@ -12,7 +12,7 @@ Among n bags of gold coins, one of them is counterfeit. We do not know which one
 ## Input
 The first line of the input contains an integer N (0 < N ≤ 20) indicating the number of test cases. For each test case, there is a line with one integer numbers n (2 ≤ n ≤ 1000000) representing how many bags of gold coins.
 
-第一行為一個整數 N ( 0 < N ≤ 20 ) 代表有 N 組測試資料，之後會有 N 行數字，每一行數字代表 n ( 2 ≤ n ≤ 1000000 ) 袋金幣。
+第一行為一個整數 N（0 < N ≤ 20）代表有 N 組測試資料，之後會有 N 行數字，每一行數字代表 n（2 ≤ n ≤ 1000000）袋金幣。
 
 ## Output
 For each test case, the output is the maximum number of times you use the scale. Add a “newline” in the end of the output.

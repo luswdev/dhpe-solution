@@ -23,7 +23,7 @@ The first line of the input contains an integer N indicating the number of test 
 
  
 
-第一行輸入一正整數N，表示共有N筆測試資料(1 ≤ N ≤ 100)，每筆測試資料為一個行列式，行列式內容為 3 列，每一列有 3 個整數，用空白分開。
+第一行輸入一正整數N，表示共有N筆測試資料 (1 ≤ N ≤ 100)，每筆測試資料為一個行列式，行列式內容為 3 列，每一列有 3 個整數，用空白分開。
 
 For example, a test case is following:
 
